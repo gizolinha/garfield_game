@@ -6,7 +6,7 @@
 ## Funcionalidades
 
   * **Movimentação Física:** Mecânicas de gravidade, pulo, andar, agachar e *Dash* (impulso).
-  * **Plataformas Dinâmicas:** Sistema de colisão preciso, incluindo plataformas que caem após o jogador pisar nelas.
+  * **Plataformas Dinâmicas:** Sistema de colisão7, incluindo plataformas que caem após o jogador pisar nelas.
   * **Inimigos (Obstáculos):** 3 tipos de inimigos animados (Green, Flowey, Clock).
   * **Gerenciamento de Recursos:** Carregamento e liberação de memória para sprites e áudio.
   * **Estados de Jogo:** Menu Principal, Gameplay, Pause, Game Over e Vitória.
